@@ -73,4 +73,8 @@ The code provided in the chat_bot.py file is a Python script that implements the
     Chat Start: Upon initiation of a chat session, Gemma's image is sent along with a greeting message. The text generation model and prompt template are set up.
     Message Handling: When a new message is received, it is passed to the text generation model for processing. The generated text chunks are then streamed back to the user as responses.
 
+
+## Video Demo
+You can watch a demo of the chat bot in action [here](https://github.com/Sarthak0071/chatbotUsingchainlit/blob/main/Chatbot%20%E2%80%94%20Mozilla%20Firefox%202024-03-24%2023-24-02.mp4).
+
 This code structure allows for easy extension and customization of the chat bot's functionalities within the LangChain framework.
